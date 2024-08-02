@@ -18,7 +18,9 @@ This README file provides instructions on setting up and using the user profile 
 * Step One: Install the Google cloud command features ( the dependecies)
 **Install the gcloud CLI**
 
-*Step two: Install teh google cloud storage and the guava java libraries
+*Step two: Install the google cloud storage and the guava java libraries
 *** To do that: Add the following dpeendecies in the code 
 ![image](https://github.com/user-attachments/assets/7f1f7373-82c8-4336-984c-add6be2ddab1)
+
+
 
