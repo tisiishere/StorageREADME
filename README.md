@@ -3,10 +3,12 @@
 #### For this Project, we will be using the buckets
 
 * Step One: **How to create a storage bucket**
-- Go to your home Page
-- Click on Storage
-- Click on Bucke
-* Step two: ** You are now in the cloud storage bucket space **
-- click on create
-- follow the steps ( where the data is stored, for how long etc.)
-- For this task we will be using the _standard bucket_ 
+  1. Go to your home Page
+  2. Click on Storage
+  3. Click on Bucket
+* Step two: **You are now in the cloud storage bucket space**
+  1. Click on create
+  2. Follow the steps ( where the data is stored, for how long etc.)
+  3. For this task we will be using the _standard bucket_ 
+
+## Using google cloud with Java 
