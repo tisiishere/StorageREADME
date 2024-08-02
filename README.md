@@ -14,3 +14,9 @@ This README file provides instructions on setting up and using the user profile 
   3. For this task we will be using the _standard bucket_ 
 
 ## Using google cloud with Java 
+
+* Step One: Install the Google cloud command features ( the dependecies)
+**Install the gcloud CLI**
+
+*Step two: Install teh google cloud storage and the guava java libraries
+*** To do that: Add the following dpeendecies in the code 
